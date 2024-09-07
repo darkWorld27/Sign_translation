@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../dataset"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sign-Language-To-Text-and-Speech-Conversion-master"
+	}
+}
